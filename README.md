@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil 👋
 
-meu nome é Wesley
+Meu nome é Wesley
 - Estou estudando no [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo no javascript
 - ultilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
